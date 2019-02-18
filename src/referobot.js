@@ -37,4 +37,4 @@ bot.on('ready', (evt) => {
 
 msgParser(bot);
 
-bot.login(NTQ3MTA5NDQzNTg2NzUyNTM0.D0x-6Q.pjA9XTEhyltu5nec8BRtNcJ53fE);
+bot.login(token);
