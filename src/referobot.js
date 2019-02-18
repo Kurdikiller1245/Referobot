@@ -1,4 +1,4 @@
-import Discord from 'discord.js';
+import discord from 'discord.js';
 import logger from 'winston';
 import request from 'superagent';
 import auth from '../auth.json';
