@@ -1,7 +1,7 @@
 {
-  "RankOne": 1,
-  "RankTwo": 2,
-  "RankThree": 3,
+  "Active": 1,
+  "Active+": 2,
+  "Active++": 3,
   "RankFour": 4,
   "RankFive": 5,
   "RankSix": 6
