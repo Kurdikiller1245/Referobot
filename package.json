@@ -2,9 +2,9 @@
   "name": "rolley-djs",
   "version": "1.0.0",
   "description": "",
-  "main": "rolley.js",
+  "main": "referobot.js",
   "scripts": {
-    "build": "node lib/referobot.js"
+    "build": "node src/referobot.js"
   },
   "author": "",
   "license": "ISC",
