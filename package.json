@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-preset-env": "^1.6.0"
+    "babel-cli": "6.24.1",
+    "babel-preset-env": "1.6.0"
   },
   "dependencies": {
     "discord.js": "11.1.0",
