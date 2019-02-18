@@ -4,7 +4,7 @@
   "description": "",
   "main": "referobot.js",
   "scripts": {
-    "build": "node src/referobot.js"
+    "start": "node src/referobot.js"
   },
   "author": "",
   "license": "ISC",
