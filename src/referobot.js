@@ -32,7 +32,7 @@ bot.on('ready', (evt) => {
   logger.info('Logged in as: ');
   logger.info(bot.user.username + ' - ' + bot.user.id);
 
-  bot.user.setPresence({status: 'online', game: {name: `>help | ${bot.guilds.size} servers`, type: 0}});
+  bot.user.setPresence({status: 'online', game: {name: `>help `, type: 0}});
 });
 
 msgParser(bot);
